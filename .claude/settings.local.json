@@ -5,7 +5,13 @@
       "Bash(npm init:*)",
       "Bash(npm install:*)",
       "Bash(npm run build:*)",
-      "Bash(git init:*)"
+      "Bash(git init:*)",
+      "Bash(git commit:*)",
+      "Bash(gh repo create:*)",
+      "Bash(npx vercel login)",
+      "Bash(npx vercel --yes)",
+      "Bash(npx vercel env add:*)",
+      "Bash(npx vercel:*)"
     ]
   }
 }
